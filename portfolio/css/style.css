@@ -34,10 +34,10 @@ p{
 } */
 
 hr{
-    border: dotted #EAF6F6 6px;
+    border: dotted #98a7a7 6px;
     border-bottom: none;
     width: 4%;
-    margin: 100px auto;
+    margin: 100px auto;    
 }
 
 a {
@@ -60,7 +60,9 @@ a:hover{
 }
 
 .middle-container {
-    margin: 100px 0;
+    background-color: #E4F9F5;
+    padding: 4rem 0;
+    /* margin: 100px 0; */
  }
 
 .bottom-container {
