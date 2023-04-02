@@ -117,6 +117,18 @@ a:hover{
     margin-left: 30px;
 }
 
+.map-img{
+    width: 40%;
+    float: left;
+    margin-right: 30px;
+}
+
+.data-img{
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+}
+
 .btn {
     background: #11cdd4;
     background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
