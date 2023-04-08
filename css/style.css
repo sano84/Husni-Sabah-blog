@@ -67,7 +67,7 @@ a:hover{
 
 .bottom-container {
     background-color: #66BFBF;
-    padding: 50px 0 20px;
+    padding: 10px 0 10px;
 } 
 
 .skill-row {
@@ -88,7 +88,7 @@ a:hover{
 
 .name{
     color: #EAF6F6;
-    font-size: 0.75rem;
+    font-size: 0.9rem;
     padding: 20px 0;
 }
 
