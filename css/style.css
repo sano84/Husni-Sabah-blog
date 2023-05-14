@@ -109,6 +109,23 @@ body {
     padding-bottom: 2rem;
    }
 
+   .p-3{
+    width: 15%;    
+    float: left;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding-bottom: 1rem;
+   }
+
+   .post-para-3{
+    padding-left: 1rem;
+   }
+
+   .post-entry-3{
+    padding-bottom: 2rem;
+   }
+
+
 footer {
     text-align: center;
     font-size: small;
