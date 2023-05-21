@@ -125,6 +125,39 @@ body {
     padding-bottom: 2rem;
    }
 
+   .p-4{
+    width: 15%;    
+    float: right;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding-bottom: 1rem;
+   }
+
+   .post-para-4{
+    padding-left: 1rem;
+   }
+
+   .post-entry-4{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+   }
+
+   .p-5{
+    width: 15%;    
+    float: left;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding-bottom: 1rem;
+   }
+
+   .post-para-5{
+    padding-left: 1rem;
+   }
+
+   .post-entry-5{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+   }
 
 footer {
     text-align: center;
