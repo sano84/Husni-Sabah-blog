@@ -73,6 +73,17 @@ body {
     padding-bottom: 2rem;
    }
 
+   .q-3{
+    width: 12%;    
+    float: left;
+    margin-right: 30px;
+    padding-bottom: 1rem;
+   }
+
+   .quote-entry-3{
+    padding-bottom: 2rem;
+   } 
+
    .quote-para-1{
     padding-top: 20px;
    }
