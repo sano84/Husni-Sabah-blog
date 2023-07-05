@@ -171,20 +171,22 @@ body {
    }
 
    .p-6{
-    width: 40%;    
-    float: right;
-    margin-left: 1rem;
-    margin-right: 1rem;
+    width: 50%;    
+    float: right;      
+    margin-left: 3rem;
+    margin-right: 3rem;
     padding-bottom: 1rem;
    }
 
    .post-para-6{
-    padding-left: 1rem;
+    text-indent: 2rem;
+    padding-left: 2rem;
+    padding-top: 3rem;
    }
 
    .post-entry-6{
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
    }
 
 footer {
