@@ -189,6 +189,26 @@ body {
     padding-bottom: 3rem;
    }
 
+   .p-7{
+    width: 15%;    
+    float: left;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding-bottom: 1rem;
+   }
+
+   .post-para-7{
+    text-indent: 2rem;
+    /* padding-top: 0.5rem; */
+    padding-bottom: 1rem;
+    padding-left: 2rem;    
+   }
+
+   .post-entry-7{
+    padding-top: 2px;
+    padding-bottom: 2rem;
+   }
+
 footer {
     text-align: center;
     font-size: small;
