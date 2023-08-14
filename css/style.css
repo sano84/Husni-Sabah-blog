@@ -252,3 +252,39 @@ footer {
     background-color: #1A4F7E;
     color: white;
   }
+
+  /* ----------------------project--------- */
+  .project-1{
+    margin: 1rem;
+  }
+  .iframe-1{       
+    float: left;
+    margin-right: 30px;
+    margin-left: 1rem;
+    padding-bottom: 1rem;
+   }
+
+   .project-para-1{
+    padding-left: 2rem;
+    padding-bottom: 2rem;
+    text-indent: 2rem;
+   }
+
+   .project-2{
+    margin: 1rem;
+  }
+
+   .iframe-2{
+        
+    float: right;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding-bottom: 1rem;
+   }
+
+   .project-para-2{
+    padding-left: 1rem;
+    text-indent: 2rem;
+   }
+
+   
