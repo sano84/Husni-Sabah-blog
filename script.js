@@ -8,3 +8,14 @@ videos.forEach((video) => {
     video.pause();
   });
 });
+
+const videos2 = document.querySelectorAll(".p-10");
+
+videos2.forEach((video) => {
+  video.addEventListener("mouseover", () => {
+    video.play();
+  });
+  video.addEventListener("mouseout", () => {
+    video.pause();
+  });
+});
