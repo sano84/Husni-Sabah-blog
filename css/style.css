@@ -103,12 +103,29 @@ body {
    
    
 /* *********************************** */
+
+/* ********** ecology *****************/
+
+.img-e1{
+  width: 15%;    
+  float: left;
+  margin-right: 30px;
+  margin-left: 1rem;  
+  padding-bottom: 2rem;
+  margin-bottom: 2rem;
+ }
+
+.p-e1{
+  padding-bottom: 2rem;
+  padding-right: 2rem;
+  margin-bottom: 2rem;
+}
    
 
-   .post{
+.post{
     padding-left: 10px;
     padding-top: 1rem;
-   }
+}
 
    .p-1{
     width: 15%;    
