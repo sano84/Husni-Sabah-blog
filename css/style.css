@@ -370,19 +370,55 @@ body {
     float: right;
     margin-left: 1rem;
     margin-right: 1rem;
-    padding-bottom: 1rem;
+    /*padding-bottom: 1rem;*/
    }
    .design-para-2{
     padding-left: 2rem;
+    padding-bottom: 4.2rem;
+    padding-top: 2rem;
+    text-indent: 2rem;
+    text-align: justify;
+   }
+ /* lemon tree guild */
+   .d-3{
+    width: 30%; 
+    height: 100%;   
+    float: left;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    /*padding-bottom: 1rem;*/
+   }
+   .design-para-3{
+    padding-left: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+    text-indent: 2rem;
+    text-align: justify;
+   }
+
+   /* papaya and fig trees */
+   .d-4{
+    width: 30%; 
+    height: 100%;   
+    float: right;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding-bottom: 1rem;
+    padding-top: 4rem;
+   }
+   .design-para-4{
+    padding-left: 2rem;
+    padding-top: 2rem;
     padding-bottom: 2rem;
     text-indent: 2rem;
     text-align: justify;
    }
 
+
    footer {
     text-align: center;
     font-size: small;
     margin: 0;
-    background-color: #1A4F7E;
+    background-color: #1B4767;
     color: white;
   }
